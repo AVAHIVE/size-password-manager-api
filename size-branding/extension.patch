@@ -1,0 +1,296 @@
+diff --git a/src/all/_locales/cs/messages.json b/src/all/_locales/cs/messages.json
+index 14ed219..1d559ef 100644
+--- a/src/all/_locales/cs/messages.json
++++ b/src/all/_locales/cs/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Open source správce hesel",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/de/messages.json b/src/all/_locales/de/messages.json
+index 4cafff0..87c2844 100644
+--- a/src/all/_locales/de/messages.json
++++ b/src/all/_locales/de/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Open Source Passwort Manager",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/en/messages.json b/src/all/_locales/en/messages.json
+index 82494c5..144dfcf 100644
+--- a/src/all/_locales/en/messages.json
++++ b/src/all/_locales/en/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Open source password manager",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/es/messages.json b/src/all/_locales/es/messages.json
+index 080da36..eb9abab 100644
+--- a/src/all/_locales/es/messages.json
++++ b/src/all/_locales/es/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Gestor de contraseñas Open Source",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/fr/messages.json b/src/all/_locales/fr/messages.json
+index 48858e5..3f5c283 100644
+--- a/src/all/_locales/fr/messages.json
++++ b/src/all/_locales/fr/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Open source password manager",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/it/messages.json b/src/all/_locales/it/messages.json
+index 01d26f6..a79683f 100644
+--- a/src/all/_locales/it/messages.json
++++ b/src/all/_locales/it/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - gestore di password open source",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/ja/messages.json b/src/all/_locales/ja/messages.json
+index c919481..972fcfc 100644
+--- a/src/all/_locales/ja/messages.json
++++ b/src/all/_locales/ja/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - オープンソースのパスワードマネージャー",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/ko/messages.json b/src/all/_locales/ko/messages.json
+index 5bc9c41..560df7a 100644
+--- a/src/all/_locales/ko/messages.json
++++ b/src/all/_locales/ko/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - 오픈소스 비밀번호 관리 프로그램",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/lt/messages.json b/src/all/_locales/lt/messages.json
+index 023373d..5308283 100644
+--- a/src/all/_locales/lt/messages.json
++++ b/src/all/_locales/lt/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt – atviro kodo slaptažodžių tvarkyklė",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/nl/messages.json b/src/all/_locales/nl/messages.json
+index 4b96ffe..1ed9f7f 100644
+--- a/src/all/_locales/nl/messages.json
++++ b/src/all/_locales/nl/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Open source wachtwoordbeheerder",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/pl/messages.json b/src/all/_locales/pl/messages.json
+index 3848230..6dae053 100644
+--- a/src/all/_locales/pl/messages.json
++++ b/src/all/_locales/pl/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - opensource'owy menedżer haseł",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/pt/messages.json b/src/all/_locales/pt/messages.json
+index 8255ef3..ed919e5 100644
+--- a/src/all/_locales/pt/messages.json
++++ b/src/all/_locales/pt/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Gerenciador de senhas open source",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/ro/messages.json b/src/all/_locales/ro/messages.json
+index 0c83665..e95f040 100644
+--- a/src/all/_locales/ro/messages.json
++++ b/src/all/_locales/ro/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Manager open source de parole",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/ru/messages.json b/src/all/_locales/ru/messages.json
+index 6acb49c..9796516 100644
+--- a/src/all/_locales/ru/messages.json
++++ b/src/all/_locales/ru/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Менеджер паролей с открытым кодом",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/sl/messages.json b/src/all/_locales/sl/messages.json
+index 985bf69..04d5eb5 100644
+--- a/src/all/_locales/sl/messages.json
++++ b/src/all/_locales/sl/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt - Odprtokodni upravitelj gesel",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/sv/messages.json b/src/all/_locales/sv/messages.json
+index 5e7c7e5..d23a388 100644
+--- a/src/all/_locales/sv/messages.json
++++ b/src/all/_locales/sv/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt – öppen källkod-lösenordshanterare",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/all/_locales/uk/messages.json b/src/all/_locales/uk/messages.json
+index 821e398..657b3b6 100644
+--- a/src/all/_locales/uk/messages.json
++++ b/src/all/_locales/uk/messages.json
+@@ -1,6 +1,6 @@
+ {
+   "appName": {
+-    "message": "Passbolt — менеджер паролів з відкритим кодом",
++    "message": "SIZE Vault - Password Manager",
+     "description": "The application name of the extension, displayed in the web store. 45 characters max."
+   },
+   "appDescription": {
+diff --git a/src/chrome-mv3/manifest.json b/src/chrome-mv3/manifest.json
+index 0e9e1c9..d43bb6e 100644
+--- a/src/chrome-mv3/manifest.json
++++ b/src/chrome-mv3/manifest.json
+@@ -1,7 +1,7 @@
+ {
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+-  "short_name": "passbolt",
++  "short_name": "SIZE Vault",
+   "version": "5.17.1",
+   "description": "__MSG_appDescription__",
+   "default_locale": "en",
+@@ -24,7 +24,7 @@
+       "dark": "webAccessibleResources/img/icons/icon-32.png",
+       "size": 32
+     }],
+-    "default_title": "Passbolt Quickaccess"
++    "default_title": "SIZE Vault"
+   },
+   "commands": {
+     "passbolt-open": {
+diff --git a/src/chrome/manifest.json b/src/chrome/manifest.json
+index 3980a3b..b061089 100644
+--- a/src/chrome/manifest.json
++++ b/src/chrome/manifest.json
+@@ -1,7 +1,7 @@
+ {
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+-  "short_name": "passbolt",
++  "short_name": "SIZE Vault",
+   "version": "5.17.1",
+   "description": "__MSG_appDescription__",
+   "default_locale": "en",
+@@ -21,7 +21,7 @@
+         "dark": "webAccessibleResources/img/icons/icon-32.png",
+         "size": 32
+     }],
+-    "default_title": "Passbolt Quickaccess"
++    "default_title": "SIZE Vault"
+   },
+   "commands": {
+     "passbolt-open": {
+diff --git a/src/firefox/manifest.json b/src/firefox/manifest.json
+index 3a22347..fe5769e 100644
+--- a/src/firefox/manifest.json
++++ b/src/firefox/manifest.json
+@@ -1,7 +1,7 @@
+ {
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+-  "short_name": "passbolt",
++  "short_name": "SIZE Vault",
+   "version": "5.17.1",
+   "description": "__MSG_appDescription__",
+   "default_locale": "en",
+@@ -29,7 +29,7 @@
+         "dark": "webAccessibleResources/img/icons/icon-32.png",
+         "size": 32
+     }],
+-    "default_title": "Passbolt Quickaccess"
++    "default_title": "SIZE Vault"
+   },
+   "commands": {
+     "_execute_browser_action": {},
+diff --git a/src/safari/manifest.json b/src/safari/manifest.json
+index 9e8a889..87d4972 100644
+--- a/src/safari/manifest.json
++++ b/src/safari/manifest.json
+@@ -1,9 +1,9 @@
+ {
+   "manifest_version": 2,
+-  "name": "Passbolt - password manager",
+-  "short_name": "passbolt",
++  "name": "SIZE Vault - password manager",
++  "short_name": "SIZE Vault",
+   "version": "5.17.1",
+-  "description": "Passbolt extension for the open source password manager.",
++  "description": "SIZE Vault password manager for teams.",
+   "default_locale": "en",
+   "icons": {
+     "16": "webAccessibleResources/img/icons/icon-16.png",
+@@ -15,7 +15,7 @@
+   },
+   "browser_action": {
+     "default_icon": "webAccessibleResources/img/icons/icon-32.png",
+-    "default_title": "Passbolt Quickaccess"
++    "default_title": "SIZE Vault"
+   },
+   "commands": {
+     "passbolt-open": {
