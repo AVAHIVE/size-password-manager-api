@@ -2,6 +2,13 @@
 
 Brouillon de rebranding de Passbolt Community Edition pour SIZE. Le serveur du dépôt reste le code Passbolt en amont ; les correctifs ci-dessous s'appliquent aux dépôts distincts indiqués.
 
+## Dépôts SIZE
+
+- [Interface SIZE — branche de travail](https://github.com/AVAHIVE/size-vault-interface/tree/size/branding-initial)
+- [Extension SIZE — branche de travail et instructions de compilation](https://github.com/AVAHIVE/size-vault-extension/tree/size/branding-initial)
+
+Les versions mobiles restent représentées par des correctifs dans ce dépôt, en attendant la création de leurs propres forks.
+
 ## Sources et références exactes
 
 - Serveur : passbolt/passbolt_api @ 5de65b8491b925fdf500e1b06e1f6fafa3b7bc29.
