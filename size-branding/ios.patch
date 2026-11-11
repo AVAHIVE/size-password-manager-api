@@ -1,0 +1,26 @@
+diff --git a/Passbolt/Passbolt/Info.plist b/Passbolt/Passbolt/Info.plist
+index 66538fb..d0ee37c 100644
+--- a/Passbolt/Passbolt/Info.plist
++++ b/Passbolt/Passbolt/Info.plist
+@@ -12,6 +12,8 @@
+ 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+ 	<key>CFBundleInfoDictionaryVersion</key>
+ 	<string>6.0</string>
++	<key>CFBundleDisplayName</key>
++	<string>SIZE Vault</string>
+ 	<key>CFBundleName</key>
+ 	<string>$(PRODUCT_NAME)</string>
+ 	<key>CFBundlePackageType</key>
+diff --git a/Passbolt/PassboltAutofill/Info.plist b/Passbolt/PassboltAutofill/Info.plist
+index 3dbc4ea..990d995 100644
+--- a/Passbolt/PassboltAutofill/Info.plist
++++ b/Passbolt/PassboltAutofill/Info.plist
+@@ -5,7 +5,7 @@
+ 	<key>CFBundleDevelopmentRegion</key>
+ 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+ 	<key>CFBundleDisplayName</key>
+-	<string>Passbolt Autofill</string>
++	<string>SIZE Vault Autofill</string>
+ 	<key>CFBundleExecutable</key>
+ 	<string>$(EXECUTABLE_NAME)</string>
+ 	<key>CFBundleIdentifier</key>
